@@ -1,4 +1,4 @@
 # Pong-Game
-Simple pong game, using Pygame. 
+Pong paddle game, using Pygame. 
 ## Installs
 $pip install pygame
